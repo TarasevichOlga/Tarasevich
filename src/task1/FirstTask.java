@@ -8,7 +8,7 @@ package task1;
 
 public class FirstTask {
     public static void main(String[] args) {
-        String a = "11";
+        String a = "113";
 
         int b = Integer.parseInt(a);
 
